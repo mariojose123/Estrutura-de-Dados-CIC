@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493163489 source:/home/mjkfilho/Documents/Exercicios/eadlab2/exercicios.c
+	<stdio.h>
+	<stdlib.h>
+	"estrutura.h"
+
+1493161115 /home/mjkfilho/Documents/Exercicios/eadlab2/estrutura.h
+	<stdio.h>
+
