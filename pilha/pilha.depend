@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493856003 source:/home/mjkfilho/Documents/Exercicios/pilha/pilha.c
+	"estrutura.h"
+	<stdio.h>
+	<stdlib.h>
+
+1493583469 /home/mjkfilho/Documents/Exercicios/pilha/estrutura.h
+	<stdio.h>
+
